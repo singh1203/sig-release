@@ -12,4 +12,4 @@ pr_body: "#### What type of PR is this?\r\n\r\n/kind dependency\r\n\r\n#### What
   the default etcd version to 3.7.0\r\n```\r\n\r\n#### Additional documentation e.g.,
   KEPs (Kubernetes Enhancement Proposals), usage docs, etc.:\r\n\r\n```docs\r\nNONE\r\n```"
 releasenote:
-  text: Updated the default etcd version to `3.7.0`
+  text: Updated the default etcd version to `3.7.0`.
